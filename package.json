@@ -1,14 +1,18 @@
 {
-  "name": "lesson8",
-  "version": "1.1.0",
+  "name": "@BiancaIchim",
+  "version": "1.1.1",
   "description": "demo application for the GItHub Actions Workshop",
-  "main": "index.js",
-  "scripts": {
-    "test": "jest --coverage"
-  },
+  "main": "/src/appOperations.js",
+  "files": [
+    "/src"
+  ],
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/BiancaIchim/lesson8.git"
+    "url": "https://github.com/BiancaIchim/lesson8"
+  },
+
+  "scripts": {
+    "test": "jest --coverage"
   },
   "keywords": [],
   "author": "",
