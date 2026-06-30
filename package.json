@@ -19,6 +19,6 @@
   },
   "homepage": "https://github.com/BiancaIchim/lesson8#readme",
   "devDependencies": {
-    "jest": "^30.4.2"
+    "jest": "^26.0.0"
   }
 }
