@@ -8,3 +8,8 @@ test("adding two values", ()=> {
     expect(appOperations.add(5,5)).toBe(10);
 });
 
+test("subtracting two values", ()=> {
+    expect(appOperations.subtract(5,3)).toBe(2);
+});
+
+
